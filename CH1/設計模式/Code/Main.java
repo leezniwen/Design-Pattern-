@@ -10,5 +10,4 @@ public class Main {
            SuperCar TELSA = new SuperCar();
            System.out.println(TELSA.Result());
     }
-    
 }
